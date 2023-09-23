@@ -7,3 +7,6 @@ Parts
 - ESP8266 wifi module
 
 ![alt_text](https://github.com/hbsagen/arduino_temperature_webserver/blob/main/Screenshot%202023-09-23%20at%2021.47.53.png)
+  
+  
+![alt_text](https://github.com/hbsagen/arduino_temperature_webserver/blob/main/Screenshot%202023-09-23%20at%2021.47.53.png)
